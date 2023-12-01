@@ -17,8 +17,8 @@ def uci_loop():
     while True:
         comando = input()
         if comando == "uci":
-            print("id name SuaEngineDeXadrez")
-            print("id author SeuNome")
+            print("id name Xadrez aleatório")
+            print("id authors João Cruz, Wendril, Cristovam")
             print("uciok")
         elif comando == "isready":
             print("readyok")
