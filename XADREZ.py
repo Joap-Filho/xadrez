@@ -1,5 +1,4 @@
 import chess
-import chess.svg
 import random
 
 def escolher_jogada_aleatoria(tabuleiro):
